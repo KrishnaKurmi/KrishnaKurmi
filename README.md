@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java and SpringBoot<br>🎯 let i = knowledge<br>      while(i < potential){<br>i += efforts<br>}</p>
+<pre align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Java and SpringBoot
+🎯 let i = knowledge
+    while(i < potential){
+        i+=efforts
+    }</pre>
 
 ###
 
