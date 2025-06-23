@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Krishna and I'm a (make a guess) </p>
+<p align="left">I am Krishna - a passionate develover and tech explorer.
 
 ###
 
@@ -47,5 +47,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KrishnaKurmi&icon=7&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
